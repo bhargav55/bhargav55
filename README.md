@@ -4,4 +4,4 @@ Software developer with experience of working in various technologies. I have ex
 
 Passionate about decentralization & blockchain technology
 
-![Bhargav's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=bhargav55&show_icons=true&theme=transparent)
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
