@@ -9,6 +9,6 @@ I build autonomous systems that operate, evaluate, and improve themselves withou
 
 **Stack**
 - AI / LLM: Anthropic SDK, OpenAI SDK, MCP, tool calling, vector databases, RAG pipelines, LangChain, LangGraph, multi-agent orchestration, context engineering, structured outputs, eval frameworks.
-- Backend: Python, TypeScript, Node.js, AWS, GCP, Redis, Kafka, Postgres, MongoDB, SQLite, Docker, REST / GraphQL APIs
-- Blockchain: Solidity, Rust (Anchor), Account abstraction, Agent Commerce(8004/8183), Foundry, Hardhat, smart-contract security
+- Backend: Python, TypeScript, Rust, Node.js, AWS, GCP, Redis, Kafka, Postgres, MongoDB, SQLite, Docker, REST / GraphQL APIs
+- Blockchain: Solidity, Rust, Account abstraction, Agent Commerce(8004/8183), Foundry, Hardhat, smart-contract security
 
